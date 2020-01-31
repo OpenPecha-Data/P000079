@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །སྐྱབས་རྗེ་སེངྒེ་བྲག་པའི་གསུང་སྒྲ་འཛིན་འཁོར་ལོ་ལས་ཞལ་བཤུས། ཕྱག་ཆེན་སྔོན་འགྲོ་ཐུན་མོང་མ་ཡིན་པའི་ཁྲིད་ཡིག་བདུད་རྩིའི་ཐིགས་པ་ཞེས་བྱ་བ་བཞུགས།
+    །
+  authors:
+  - མཛད་པ་པོ། ཤྲཱི་སེང་བྲག་སྤྲུལ་སྐུ་ངག་དབང་འགྱུར་མེད་ཆོས་ཀྱི་རྒྱལ་མཚན།
+  sku: KS-TS-02
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: A Droplet of Nectar:A Commentary on the Uncommon Preliminary Practice of Mahamudra
+      (A Transcript of Kyabje Senge Drakpa’s Recording)
+    bo: སྐྱབས་རྗེ་སེངྒེ་བྲག་པའི་གསུང་སྒྲ་འཛིན་འཁོར་ལོ་ལས་ཞལ་བཤུས། ཕྱག་ཆེན་སྔོན་འགྲོ་ཐུན་མོང་མ་ཡིན་པའི་ཁྲིད་ཡིག་བདུད་རྩིའི་ཐིགས་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Tulku Sengdrak Series–  Book 2
+    bo: སྤྲུལ་སྐུ་སེང་གྲགས་བསྟར་རིམ།–  དེབ། ༢
+  author:
+    en: Tulku Ngawang Gyurme Chokyi Gyaltsen
+    bo: སྤྲུལ་སྐུ་ངག་དབང་འགྱུར་མེད་ཆོས་ཀྱི་རྒྱལ་མཚན།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།ཕབ་ལེན།
+  sku: KS-TS-02
+  category:
+    en: Preliminary Practices
+    bo: སྔོན་འགྲོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-TS-02.epub
+  description:
+    en: ''
+    bo: ''
