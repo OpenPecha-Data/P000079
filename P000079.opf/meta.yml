@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000079
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྐྱབས་རྗེ་སེངྒེ་བྲག་པའི་གསུང་སྒྲ་འཛིན་འཁོར་ལོ་ལས་ཞལ་བཤུས། ཕྱག་ཆེན་སྔོན་འགྲོ་ཐུན་མོང་མ་ཡིན་པའི་ཁྲིད་ཡིག་བདུད་རྩིའི་ཐིགས་པ་ཞེས་བྱ་བ་བཞུགས།
     །
   authors:
   - མཛད་པ་པོ། ཤྲཱི་སེང་བྲག་སྤྲུལ་སྐུ་ངག་དབང་འགྱུར་མེད་ཆོས་ཀྱི་རྒྱལ་མཚན།
-  sku: KS-TS-02
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: KS-TS-02
 web_metadata:
   title:
     en: A Droplet of Nectar:A Commentary on the Uncommon Preliminary Practice of Mahamudra
