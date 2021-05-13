@@ -2,55 +2,55 @@ id: f4bf06e1acbd41cf86dd1a52380aa5ec
 annotation_type: Chapter
 revision: '00001'
 annotations:
-- id: 6e46f3f7e50143578e2af77925ccfd82
-  span:
-    start: 212
-    end: 272
-- id: 3362b72b4aad43dcba4fbbc3cbcc2af7
-  span:
-    start: 1685
-    end: 1726
-- id: 757e82de0e4f4ef2a3de09c1c6208140
-  span:
-    start: 3421
-    end: 3561
-- id: cfa0fa2ada844ed49f824e4e144c4c16
-  span:
-    start: 5402
-    end: 5470
-- id: c7b23eeb85d54f36a239a3030ef1d7ca
-  span:
-    start: 92121
-    end: 92196
-- id: a59955810f10423bb0d1791edf1fff80
-  span:
-    start: 156099
-    end: 156154
-- id: f4343f8fa64a49cb8385aa683855edd2
-  span:
-    start: 213355
-    end: 213413
-- id: a9af1e57bd214b53a8f49a395dbfa36e
-  span:
-    start: 302440
-    end: 302516
-- id: 4c6eecf73f1d40e1a024afadfc6059d1
-  span:
-    start: 306433
-    end: 306504
-- id: 4d4b3653b3b04c56adfde2d845481824
-  span:
-    start: 309213
-    end: 309265
-- id: c96ab725aac742a7a6b0150cf59c2d87
-  span:
-    start: 312598
-    end: 312723
-- id: 26d9d95ad09c4f468220ea77490b1eaf
-  span:
-    start: 315713
-    end: 315840
-- id: a900ac0d859e461981907a57133c6184
-  span:
-    start: 317525
-    end: 317544
+  6e46f3f7e50143578e2af77925ccfd82:
+    span:
+      start: 212
+      end: 272
+  3362b72b4aad43dcba4fbbc3cbcc2af7:
+    span:
+      start: 1685
+      end: 1726
+  757e82de0e4f4ef2a3de09c1c6208140:
+    span:
+      start: 3421
+      end: 3561
+  cfa0fa2ada844ed49f824e4e144c4c16:
+    span:
+      start: 5402
+      end: 5470
+  c7b23eeb85d54f36a239a3030ef1d7ca:
+    span:
+      start: 92121
+      end: 92196
+  a59955810f10423bb0d1791edf1fff80:
+    span:
+      start: 156099
+      end: 156154
+  f4343f8fa64a49cb8385aa683855edd2:
+    span:
+      start: 213355
+      end: 213413
+  a9af1e57bd214b53a8f49a395dbfa36e:
+    span:
+      start: 302440
+      end: 302516
+  4c6eecf73f1d40e1a024afadfc6059d1:
+    span:
+      start: 306433
+      end: 306504
+  4d4b3653b3b04c56adfde2d845481824:
+    span:
+      start: 309213
+      end: 309265
+  c96ab725aac742a7a6b0150cf59c2d87:
+    span:
+      start: 312598
+      end: 312723
+  26d9d95ad09c4f468220ea77490b1eaf:
+    span:
+      start: 315713
+      end: 315840
+  a900ac0d859e461981907a57133c6184:
+    span:
+      start: 317525
+      end: 317544
